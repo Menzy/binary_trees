@@ -1,10 +1,10 @@
 #include "binary_trees.h"
 
 /**
- * _maxi - Finds the maximum of two values.
- * @left: The first value
- * @right: The second value
- * Return: The maximum value of the two provided values
+ * _maxi - to find the maximum of two values.
+ * @left: first value
+ * @right: second value
+ * Return: the maximum value of the two
  */
 
 size_t _maxi(size_t left, size_t right)
